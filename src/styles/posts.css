@@ -1,0 +1,230 @@
+.post1 {
+    position: absolute;
+    width: 350px;
+    height: 190px;
+    left: 290px;
+    top: 140px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.09);
+    border-radius: 6px;
+}
+.post1:hover {
+    background-color: #ff6c22;
+}
+
+.fundo1 {
+    position: absolute;
+    width: 330px;
+    height: 120px;
+    left: 10px;
+    top: 10px;
+    
+    border-radius: 6px;
+}
+h4 {
+    position: absolute;
+    width: 464.81px;
+    height: 26px;
+    left: -55px;
+    top: 127px;
+
+    font-family: Advent Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 186.5%;
+    /* or 26px */
+
+
+    color: #000000;
+}
+p {
+    position: absolute;
+    width: 464.81px;
+    height: 26px;
+    left: -58px;
+    top: 145px;
+
+    font-family: Advent Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 186.5%;
+    /* or 26px */
+
+
+    color: #000000;
+}
+
+.post2 {
+    position: absolute;
+    width: 350px;
+    height: 190px;
+    left: 660px;
+    top: 140px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.09);
+    border-radius: 6px;
+}
+.post2:hover {
+    background-color: #ff6c22;
+}
+.fundo2 {
+    position: absolute;
+    width: 330px;
+    height: 120px;
+    left: 10px;
+    top: 10px;
+
+    border-radius: 6px;
+}
+h4 {
+    position: absolute;
+    width: 464.81px;
+    height: 26px;
+    left: -55px;
+    top: 127px;
+
+    font-family: Advent Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 186.5%;
+    /* or 26px */
+
+
+    color: #000000;
+}
+p {
+    position: absolute;
+    width: 464.81px;
+    height: 26px;
+    left: -58px;
+    top: 145px;
+
+    font-family: Advent Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 186.5%;
+    /* or 26px */
+
+
+    color: #000000;
+}
+.post3 {
+    position: absolute;
+    width: 350px;
+    height: 190px;
+    left: 290px;
+    top: 350px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.09);
+    border-radius: 6px;
+}
+.post3:hover {
+    background-color: #ff6c22;
+}
+.fundo3 {
+    position: absolute;
+    width: 330px;
+    height: 120px;
+    left: 10px;
+    top: 10px;
+
+    border-radius: 6px;
+}
+h4 {
+    position: absolute;
+    width: 464.81px;
+    height: 26px;
+    left: -55px;
+    top: 127px;
+
+    font-family: Advent Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 186.5%;
+    /* or 26px */
+
+
+    color: #000000;
+}
+p {
+    position: absolute;
+    width: 464.81px;
+    height: 26px;
+    left: -58px;
+    top: 145px;
+
+    font-family: Advent Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 186.5%;
+    /* or 26px */
+
+
+    color: #000000;
+}
+.post4 {
+    position: absolute;
+    width: 350px;
+    height: 190px;
+    left: 660px;
+    top: 350px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.09);
+    border-radius: 6px;
+}
+.post4:hover {
+    background-color: #ff6c22;
+}
+.fundo4 {
+    position: absolute;
+    width: 330px;
+    height: 120px;
+    left: 10px;
+    top: 10px;
+
+    border-radius: 6px;
+}
+h4 {
+    position: absolute;
+    width: 464.81px;
+    height: 26px;
+    left: -55px;
+    top: 127px;
+
+    font-family: Advent Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 186.5%;
+    /* or 26px */
+
+
+    color: #000000;
+}
+p {
+    position: absolute;
+    width: 464.81px;
+    height: 26px;
+    left: -58px;
+    top: 145px;
+
+    font-family: Advent Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 186.5%;
+    /* or 26px */
+
+
+    color: #000000;
+}

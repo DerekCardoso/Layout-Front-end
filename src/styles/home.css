@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Advent+Pro:wght@100;400;500;600&display=swap');
+
+.fonttamanho{
+    font-weight: bold;
+}
+
+body {
+    font-family: Advent Pro;
+    font-weight: 300;
+    font-size: 2rem;
+    background-color: #f3f3f3;
+    text-align: center;
+}
+
+.menu {
+    align-items: left;
+    position: flex;
+    width: 250px;
+    height: 41rem;
+
+
+    background: #FFFFFF;
+}
+
+.logo {
+    position: absolute;
+    width: 359px;
+    height: 77.54px;
+    left: -60px;
+    top: 50px;
+
+}
+
+h5 {
+    position: absolute;
+    width: 317px;
+    height: 4px;
+    left: 190px;
+    top: 50px;
+
+    font-family: Advent Pro;
+    font-style: normal;
+   
+    font-size: 25px;
+    line-height: 186.5%;
+    /* or 47px */
+
+    text-align: center;
+
+    color: rgba(0, 0, 0, 0.44); 
+}
+
+hr {
+    position: absolute;
+    width: 1000px;
+    height: 0px;
+    left: 290px;
+    top: 107px;
+
+
+    transform: rotate(0.08deg);
+}
+
+@media (max-width: 600px){
+    header{
+        width: 100px;
+        height: 100px;
+
+    }
+    div{
+        background-color: black;
+    }
+}

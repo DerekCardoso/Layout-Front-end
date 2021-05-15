@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Advent+Pro:wght@100;400;500;600&display=swap');
+
+.corLaranja{
+    color: #ff6c22;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    font-size: 2rem;
+    background-color: #ff6c22;
+    color: #fff;
+    text-align: center;
+}
+
+.retangulo {
+    align-items: center;
+    position: absolute;
+    width: 750px;
+    height: 450px;
+    left: 315px;
+    top: 125px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 4px 19px rgba(0, 0, 0, 0.25);
+    border-radius: 4px;
+}
+
+.logo {
+    position: absolute;
+    width: 359px;
+    height: 77.54px;
+    left: -20px;
+    top: 50px;
+
+}
+
+.fundo {
+    position: absolute;
+    width: 320px;
+    height: 450px;
+    left: 430px;
+    top: px;
+
+    background: url(../img/fundo.png);
+    border-radius: 0px 4px 4px 0px;
+}
+
+.computador {
+    position: absolute;
+    max-width:200px;
+    max-height:150px;
+    width: auto;
+    height: auto;
+    left: 340px;
+    top: 68px;
+
+} 
+
+.welcome {
+    position: absolute;
+    width: 317px;
+    height: 4px;
+    left: px;
+    top: 150px;
+
+    font-family: Advent Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 186.5%;
+    /* or 47px */
+
+    text-align: center;
+
+    color: rgba(0, 0, 0, 0.44);
+
+}
+
+#email-container {
+    position: absolute;
+    width: 270px;
+    height: 40px;
+    left: 30px;
+    top: 210px;
+
+    font-family: Advent Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 161.5%;
+
+    background: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
+#password-container{
+    font-size: 12px;
+    position: absolute;
+    width: 270px;
+    height: 40px;
+    left: 30px;
+    top: 265px;
+
+    font-family: Advent Pro;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 161.5%;
+
+    background: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    box-sizing: border-box;
+    border-radius: 5px;
+
+}
+
+#btn-botao {
+    position: absolute;
+    width: 151px;
+    height: 40px;
+    left: 30px;
+    top: 320px;
+
+    background-color: #2EAFB2;
+    border: none;
+}
+

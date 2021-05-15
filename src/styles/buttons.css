@@ -1,0 +1,97 @@
+#btn-botao1 {
+    text-align: left;
+    position: absolute;
+    width: 211px;
+    height: 50px;
+    left: 100px;
+    top: 100px;
+
+    background-color: #f3f3f3;
+    color: black;
+    border: none;
+}
+
+#btn-botao2 {
+    text-align: left;
+    position: absolute;
+    width: 211px;
+    height: 50px;
+    left: 100px;
+    top: 165px;
+    
+    background-color: #2EAFB2;
+    border: none;
+
+}
+#btn-botao2:active{
+    background-color: #f3f3f3;
+    color: black;
+
+}
+#btn-botao2:hover{
+    background-color: #f3f3f3;
+    color: black;
+}
+
+#btn-botao3 {
+    text-align: left;
+    position: absolute;
+    width: 211px;
+    height: 50px;
+    left: 100px;
+    top: 230px;
+
+    background-color: #2EAFB2;
+    border: none;
+}
+#btn-botao3:active{
+    background-color: #f3f3f3;
+    color: black;
+
+}
+#btn-botao3:hover{
+    background-color: #f3f3f3;
+    color: black;
+}
+
+#btn-botao4 {
+    text-align: left;
+    position: absolute;
+    width: 211px;
+    height: 50px;
+    left: 100px;
+    top: 295px;
+
+    background-color: #2EAFB2;
+    border: none;
+}
+#btn-botao4:active{
+    background-color: #f3f3f3;
+    color: black;
+
+}
+#btn-botao4:hover{
+    background-color: #f3f3f3;
+    color: black;
+}
+
+#btn-botao5 {
+    text-align: left;
+    position: absolute;
+    width: 211px;
+    height: 50px;
+    left: 100px;
+    top: 365px;
+
+    background-color: #2EAFB2;
+    border: none;
+}
+#btn-botao5:active{
+    background-color: #f3f3f3;
+    color: black;
+
+}
+#btn-botao5:hover{
+    background-color: #f3f3f3;
+    color: black;
+}
